@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-This repository is for my ALX software engineering program projects.
+This directory is for Shell script Project at ALX SE
